@@ -1,0 +1,40 @@
+
+header{
+    background-image: url(imagenes/gimnasiooscuro.jpg);
+    background-position: center;
+    padding: 30px;
+    margin: 20px;
+    color: azure;
+    text-align: center;
+    
+
+}
+body{
+    background:black;
+    color: azure;
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+    padding: 30px;
+    margin: 20px;
+}
+
+nav a {
+  color: black;
+  text-decoration: none;
+  padding: 15px 20px;
+  display: inline-block;
+  font-weight: bold;
+  transition: background-color 0.3s ease;
+}
+footer {
+  text-align: center;
+  padding: 18px 0;
+  background-color: #333;
+  color: white;
+  font-size: 0.98em;
+  margin-top: 40px;
+}
+
+footer a:hover {
+  text-decoration: underline;
+}
